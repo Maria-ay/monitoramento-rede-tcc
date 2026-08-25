@@ -1,0 +1,4 @@
+.env
+historico_rede.csv
+monitor_rede.log
+__pycache__/
